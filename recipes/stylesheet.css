@@ -3,12 +3,23 @@
 }
 
 h1 {
+text-align:center;
 color:blue;
+background-color:aquamarine;
 font-size:24px;
 font-weight:1000;
 }
 h3 {
+text-align:center;
 color:darkblue;
+background-color:aquamarine
 font-size:22px;
 font-weight:800;
+}
+.desc{
+text-align:center;
+color:darkblue
+}
+.even{
+font-weight:bold;
 }
